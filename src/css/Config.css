@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .stast {
+        @apply w-auto h-10 rounded-lg flex flex-wrap content-center px-2
+    }
+    
+    .Pc {
+        @apply w-1/2 
+    }
+}
+
